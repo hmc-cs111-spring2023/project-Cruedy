@@ -6,18 +6,13 @@ _My critiquer agree with me that my ideas were a little too ambitious. The feedb
 
 ## Description
 
-_I mainly want to get the language to be used to apply an effect that is written in javascript to a video. [This link](https://helpx.adobe.com/after-effects/using/expression-language.html#:~:text=The%20After%20Effects%20expression%20language,Comp%2C%20Footage%2C%20and%20Camera.) explains why After Effects uses javascript as its language for expressions._
-
-**TODO:** Fill in this part with information about your work this week:
-important design decisions, changes to previous decisions, open questions,
-exciting milestones, preliminary results, etc. Feel free to include images
-(e.g., a sketch of the design or a screenshot of a running program), links to
-code, and any other resources that you think will help clearly convey your
-design process.
+_I mainly want to get the language to be used to apply an effect that is written in javascript to a video. [This link](https://helpx.adobe.com/after-effects/using/expression-language.html#:~:text=The%20After%20Effects%20expression%20language,Comp%2C%20Footage%2C%20and%20Camera.) explains why After Effects uses javascript as its language for expressions. I also found [this link](https://helpx.adobe.com/after-effects/using/scripts.html) that explains that the script uses Adobe ExtendScript which is an extension from javascript. [This page](https://ae-scripting.docsforadobe.dev/introduction/overview.html) explains how the extendscript language is used. Reading through these articles has helped me realize that the editor for my DSL could be any editor and then the code could just be loaded into After Effects._
 
 ## Questions
 
 _How do you use a language to apply an effect(that is written in javascript) to a video?_
+
+_Does it seem like the ExtendScript language is a DSL itself? If it is a DSL with javascript as its host, is it internal or extenal?_
 
 _How are after effects expressions currently used?_
 
