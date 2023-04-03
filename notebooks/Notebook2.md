@@ -10,6 +10,7 @@ issues in your project? How will you incorporate the feedback into your work? Wi
 change something about the design, implementation, or evaluation as a result?
 
 ## Description
+_Create a langauge that outputs extendScript._
 
 **TODO:** Fill in this part with information about your work this week:
 important design decisions, changes to previous decisions, open questions,
