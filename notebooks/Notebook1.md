@@ -2,11 +2,11 @@
 
 ## Last week's critique
 
-### My critiquer agree with me that my ideas were a little too ambitious. The feedback helped me decide to focus on the design of the language and to make sure it actually was an improvement from using javascript. The feedback made me also realize that I should just make the language focus in on one aspect that javscript is used for. Overall, the feedback helped me hone in my project idea and make it less complicated. I also talked to Prof Wiedermann, and from that talk I was better able to decide what functionality my language should be able to have.
+_My critiquer agree with me that my ideas were a little too ambitious. The feedback helped me decide to focus on the design of the language and to make sure it actually was an improvement from using javascript. The feedback made me also realize that I should just make the language focus in on one aspect that javscript is used for. Overall, the feedback helped me hone in my project idea and make it less complicated. I also talked to Prof Wiedermann, and from that talk I was better able to decide what functionality my language should be able to have._
 
 ## Description
 
-### I mainly want to get the language to be used to apply an effect that is written in javascript to a video. [This link](https://helpx.adobe.com/after-effects/using/expression-language.html#:~:text=The%20After%20Effects%20expression%20language,Comp%2C%20Footage%2C%20and%20Camera.) explains why After Effects uses javascript as its language for expressions.
+_I mainly want to get the language to be used to apply an effect that is written in javascript to a video. [This link](https://helpx.adobe.com/after-effects/using/expression-language.html#:~:text=The%20After%20Effects%20expression%20language,Comp%2C%20Footage%2C%20and%20Camera.) explains why After Effects uses javascript as its language for expressions._
 
 **TODO:** Fill in this part with information about your work this week:
 important design decisions, changes to previous decisions, open questions,
@@ -17,23 +17,10 @@ design process.
 
 ## Questions
 
-## How do you use a language to apply an effect(that is written in javascript) to a video?
+_How do you use a language to apply an effect(that is written in javascript) to a video?_
 
-## How are after effects expressions currently used?
+_How are after effects expressions currently used?_
 
-## Should I view the video as a parameter?
+_Should I view the video as a parameter?_
 
-## The amount of work I did this week was pretty much just as much work I had expected to get done based on the contract. 
-
-**What is the most pressing issue for your project? What design decision do
-you need to make, what implementation issue are you trying to solve, or how
-are you evaluating your design and implementation?**
-
-**What questions do you have for your critique partners? How can they best help
-you?**
-
-**How much time did you spend on the project this week? If you're working in a
-team, how did you share the work?**
-
-**Compared to what you wrote in your contract about what you want to get out of this
-project, how did this week go?**
+_The amount of work I did this week was pretty much just as much work I had expected to get done based on the contract._
