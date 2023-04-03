@@ -10,6 +10,8 @@ _I mainly want to get the language to be used to apply an effect that is written
 
 ## Questions
 
+_I spent about five hours this week on this project._
+
 _How do you use a language to apply an effect(that is written in javascript) to a video?_
 
 _Does it seem like the ExtendScript language is a DSL itself? If it is a DSL with javascript as its host, is it internal or extenal?_
