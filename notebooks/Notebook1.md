@@ -6,7 +6,7 @@
 
 ## Description
 
-### I mainly want to get the language to be used to apply an effect that is written in javascript to a video. 
+### I mainly want to get the language to be used to apply an effect that is written in javascript to a video. [This link](https://helpx.adobe.com/after-effects/using/expression-language.html#:~:text=The%20After%20Effects%20expression%20language,Comp%2C%20Footage%2C%20and%20Camera.) explains why After Effects uses javascript as its language for expressions.
 
 **TODO:** Fill in this part with information about your work this week:
 important design decisions, changes to previous decisions, open questions,
