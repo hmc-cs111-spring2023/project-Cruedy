@@ -2,6 +2,8 @@
 
 ## Last week's critique
 
+My feedback partner recommended that I borrow my design from css.
+
 **TODO:** Fill in this part with a summary and reflection on the critique you received for
 last week's work. Answer questions such as:  How, specifically, did the feedback help
 improve the project? Did the feedback point out or offer something you hadn't considered?
