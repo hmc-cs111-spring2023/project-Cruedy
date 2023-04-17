@@ -7,7 +7,7 @@ My feedback partner recommended that I borrow my design from css, so I took that
 ## Description
 
 I started working on [my parser](https://github.com/hmc-cs111-spring2023/Artifact-Cruedy/blob/main/DSL%20Code/parser.py) this week, so I also made adjustments to my language design to make it so that my parser could get to my desired result better. So far making the parser doesn's seem too hard. I was able to output an extendscript file that selected a composition to work on. Currently I'm able to process code that selected the current composition that is selected in after effects or that pics a specific composition with a given index. 
-This is the [output I've gotten so far](https://github.com/hmc-cs111-spring2023/Artifact-Cruedy/blob/main/Screen%20Shot%202023-04-16%20at%208.09.17%20PM.png) from my parser, and this is my [goal output](https://github.com/hmc-cs111-spring2023/Artifact-Cruedy/blob/main/goal_output.png). I'm going to make sure that my parser can catch errors, I already added an error catch that tells the user to make sure that their code picks a composition in the first line of code.
+This is the [output I've gotten so far](https://github.com/hmc-cs111-spring2023/Artifact-Cruedy/blob/main/select_comp.png) from my parser, and this is my [goal output](https://github.com/hmc-cs111-spring2023/Artifact-Cruedy/blob/main/goal_output.png). I'm going to make sure that my parser can catch errors, I already added an error catch that tells the user to make sure that their code picks a composition in the first line of code.
 
 ## Questions
 
