@@ -2,21 +2,12 @@
 
 ## Last week's critique
 
-**TODO:** Fill in this part with a summary and reflection on the critique you received for
-last week's work. Answer questions such as:  How, specifically, did the feedback help
-improve the project? Did the feedback point out or offer something you hadn't considered?
-Did it help you make a design decision? Was it helpful in addressing the most pressing
-issues in your project? How will you incorporate the feedback into your work? Will you
-change something about the design, implementation, or evaluation as a result?
+_Since I wrote a lot of my parser last week, I wanted to check in with my critique group to see if I was writing my parser correctly. I just felt unsure about the way I wrote my parser because it written in such a way where it just searched for a specific string and spit out another string as an output. My critiquer recommended that I use the regex group function to parse the code so that it's less hard coded. I think I'm going to take that advice for parsing the individual elements like shapes and effects._
+_After looking into my code, I decided to just parse it without regular expressions because I'm not grouping elements by "(", and I already have the input code split up by line._
 
 ## Description
 
-**TODO:** Fill in this part with information about your work this week:
-important design decisions, changes to previous decisions, open questions,
-exciting milestones, preliminary results, etc. Feel free to include images
-(e.g., a sketch of the design or a screenshot of a running program), links to
-code, and any other resources that you think will help clearly convey your
-design process.
+_I was able to translate every element attribute into extendscipt code and create default values for each attribute. Since I decided to use the names of colors for my DSL, I have to figure out how to translate them to the rgb values. The example I'm using is the color red, which is simply just (1, 0, 0), but I need to make sure it works for more complex values. To do this I imported colors from the matplotlib library. The to_rgba() function gave me the rgba values, and I just removed the last element from the outputted list. I also had to some manipulation to the list to make it the correct format.
 
 ## Questions
 
