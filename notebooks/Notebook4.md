@@ -7,19 +7,12 @@ _After looking into my code, I decided to just parse it without regular expressi
 
 ## Description
 
-_I was able to translate every element attribute into extendscipt code and create default values for each attribute. Since I decided to use the names of colors for my DSL, I have to figure out how to translate them to the rgb values. The example I'm using is the color red, which is simply just (1, 0, 0), but I need to make sure it works for more complex values. To do this I imported colors from the matplotlib library. The to_rgba() function gave me the rgba values, and I just removed the last element from the outputted list. I also had to some manipulation to the list to make it the correct format.
+_I was able to translate every element attribute into extendscipt code and create default values for each attribute. Since I decided to use the names of colors for my DSL, I have to figure out how to translate them to the rgb values. The example I'm using is the color red, which is simply just (1, 0, 0), but I need to make sure it works for more complex values. To do this I imported colors from the matplotlib library. The to_rgba() function gave me the rgba values, and I just removed the last element from the outputted list. I also had to some manipulation to the list to make it the correct format._
+
+_[This jsx file](https://github.com/hmc-cs111-spring2023/Artifact-Cruedy/blob/main/DSL%20Code/shape.jsx) is what I've outputted so far, but I'm still thinking out ways to simplify the parser or use the reqgex library instead of change each line. Since I've tested this outputted file and it does what my example does, I don't think it's necessary to add the last line._
 
 ## Questions
 
-**What is the most pressing issue for your project? What design decision do
-you need to make, what implementation issue are you trying to solve, or how
-are you evaluating your design and implementation?**
+_This section took me about 6 hours because I was testing out a bunch of different ways to parse my language, but decided regex was too difficult for curly braces. I spent about an hour on this write up._
 
-**What questions do you have for your critique partners? How can they best help
-you?**
-
-**How much time did you spend on the project this week? If you're working in a
-team, how did you share the work?**
-
-**Compared to what you wrote in your contract about what you want to get out of this
-project, how did this week go?**
+_I don't really want to hard code a ";" to the end of each line, so can you guys think of a way to add those to the file after all the lines are added. Like is there a way to edit javascript file lines after they are already added._
