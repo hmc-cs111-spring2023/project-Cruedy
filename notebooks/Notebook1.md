@@ -2,33 +2,22 @@
 
 ## Last week's critique
 
-**TODO:** Fill in this part with a summary and reflection on the critique you received for
-last week's work. Answer questions such as:  How, specifically, did the feedback help
-improve the project? Did the feedback point out or offer something you hadn't considered?
-Did it help you make a design decision? Was it helpful in addressing the most pressing
-issues in your project? How will you incorporate the feedback into your work? Will you
-change something about the design, implementation, or evaluation as a result?
+_My critiquer agree with me that my ideas were a little too ambitious. The feedback helped me decide to focus on the design of the language and to make sure it actually was an improvement from using javascript. The feedback made me also realize that I should just make the language focus in on one aspect that javscript is used for. Overall, the feedback helped me hone in my project idea and make it less complicated. I also talked to Prof Wiedermann, and from that talk I was better able to decide what functionality my language should be able to have._
 
 ## Description
 
-**TODO:** Fill in this part with information about your work this week:
-important design decisions, changes to previous decisions, open questions,
-exciting milestones, preliminary results, etc. Feel free to include images
-(e.g., a sketch of the design or a screenshot of a running program), links to
-code, and any other resources that you think will help clearly convey your
-design process.
+_I mainly want to get the language to be used to apply an effect that is written in javascript to a video. [This link](https://helpx.adobe.com/after-effects/using/expression-language.html#:~:text=The%20After%20Effects%20expression%20language,Comp%2C%20Footage%2C%20and%20Camera.) explains why After Effects uses javascript as its language for expressions. I also found [this link](https://helpx.adobe.com/after-effects/using/scripts.html) that explains that the script uses Adobe ExtendScript which is an extension from javascript. [This page](https://ae-scripting.docsforadobe.dev/introduction/overview.html) explains how the extendscript language is used. Reading through these articles has helped me realize that the editor for my DSL could be any editor and then the code could just be loaded into After Effects._
 
 ## Questions
 
-**What is the most pressing issue for your project? What design decision do
-you need to make, what implementation issue are you trying to solve, or how
-are you evaluating your design and implementation?**
+_I spent about five hours this week on this project._
 
-**What questions do you have for your critique partners? How can they best help
-you?**
+_How do you use a language to apply an effect(that is written in javascript) to a video?_
 
-**How much time did you spend on the project this week? If you're working in a
-team, how did you share the work?**
+_Does it seem like the ExtendScript language is a DSL itself? If it is a DSL with javascript as its host, is it internal or extenal?_
 
-**Compared to what you wrote in your contract about what you want to get out of this
-project, how did this week go?**
+_How are after effects expressions currently used?_
+
+_Should I view the video as a parameter?_
+
+_The amount of work I did this week was pretty much just as much work I had expected to get done based on the contract._
